@@ -2,7 +2,7 @@
 
 ### About me:
 
->    **keep trying && key young**
+>    **keep trying && keep young**
 >
 > 曾实习于Google,PerFxLab, RATH, Viking Trading等公司
 >
