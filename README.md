@@ -17,7 +17,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-cai&hide=prs,issues&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=small-cai&hide=issues&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
