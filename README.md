@@ -21,9 +21,9 @@
 <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app
 https://github-readme-stats.vercel.app -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=small-cai&hide=issues&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaoyunzhou&hide=issues&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=small-cai&layout=compact&hide=HTML,CSS,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yaoyunzhou&layout=compact&hide=HTML,CSS,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
