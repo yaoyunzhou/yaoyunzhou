@@ -8,7 +8,7 @@
 >
 > 专注于算法交流，AI芯片交流，项目合作，金融量化等。
 > 
->  **IU PhD 23fall新生**  
+> Now, I work as a research assistant in UofIowa
 > 
 > 现在研究方向为HPC
 > 
