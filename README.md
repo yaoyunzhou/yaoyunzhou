@@ -8,7 +8,7 @@
 >
 > 专注于算法交流，AI芯片交流，项目合作，金融量化等。
 > 
-> Now, I work as a research assistant in UofIowa
+> Now, I am a PhD student and work as a RA in UofIowa.
 > 
 > 现在研究方向为HPC
 > 
