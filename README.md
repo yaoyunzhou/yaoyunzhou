@@ -3,7 +3,7 @@
 ### About me:
 
 >    **keep trying && keep young** 
->   :  )
+>   :  )  
 >   Attention: yzhou96@ucmerced.edu is the only email address I currently use to communicate about academic, life, and learning experiences.  
 >   If you find that this email address that communicate with you is not this one, please automatically ignore it.
 > 
