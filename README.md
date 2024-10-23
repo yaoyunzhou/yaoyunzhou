@@ -11,12 +11,14 @@
 
 
 
-<!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app
-https://github-readme-stats.vercel.app -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyunzhou&layout=compact&langs_count=8&card_width=500&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" alt="">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyunzhou&layout=compact&langs_count=8&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" alt="">
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaoyunzhou&hide=issues&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=yaoyunzhou&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true)
+
+#### Visitors
+
+![](https://count.getloli.com/get/@yaoyunzhou?theme=gelbooru)
 
 
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yaoyunzhou&layout=compact&hide=HTML,CSS,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
