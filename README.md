@@ -12,9 +12,10 @@
 #### Statistical data
 
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyunzhou&layout=compact&langs_count=8&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" alt="">
+<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaoyunzhou&layout=compact&langs_count=8&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" alt=""> <img height="130px" src="https://github-readme-stats.vercel.app/api?username=yaoyunzhou&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&hide=css,stylus,html,javascript,pug" alt="">
 
-![](https://github-readme-stats.vercel.app/api?username=yaoyunzhou&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true)
+
+
 
 #### Visitors
 
